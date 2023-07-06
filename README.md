@@ -39,12 +39,6 @@ A complete News Api developed with the help of Node and Express js. I am using m
 
 
 
-+-----------------------------------+
-|                                   |
-|          Author    -              |
-|   Ankit Dwivedi                   |
-+-----------------------------------+
-
 
 MIT License
 
